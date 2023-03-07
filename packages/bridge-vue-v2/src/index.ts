@@ -1,1 +1,0 @@
-export { vueBridge } from './vueBridge';
